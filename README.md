@@ -2,8 +2,8 @@
 
 Aplikasi web terintegrasi untuk mata kuliah **Teori Bahasa dan Otomata**, mencakup 4 modul wajib: Finite State Automata, Regular Expression, Pushdown Automata & CFG, serta Hierarki Chomsky & Chomsky Normal Form.
 
-- **Live demo:** https://[isi-domain-anda].my.id _(isi setelah deploy)_
-- **Video demo (YouTube):** [isi-link-video] _(isi setelah upload)_
+- **Live demo:** https://[isi-domain-anda].my.id 
+- **Video demo (YouTube):** [isi-link-video] 
 
 ## Fitur per Modul
 
