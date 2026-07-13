@@ -70,8 +70,4 @@ npm run build && npm start
 4. Di dashboard Vercel → Project → Settings → Domains, tambahkan domain `.my.id` Anda dan ikuti instruksi DNS (biasanya CNAME ke `cname.vercel-dns.com`).
 5. Tunggu propagasi DNS, HTTPS akan aktif otomatis via Vercel.
 
-## Penggunaan AI Generatif
-_(Lengkapi bagian ini sesuai aturan integritas akademik: tools yang dipakai, bagian mana yang dibantu AI, dan bagaimana Anda memahami/memodifikasi hasilnya.)_
 
-## Lisensi
-Tugas akademik — Capstone Project Individu, Teori Bahasa dan Otomata, Semester Genap 2025/2026.
