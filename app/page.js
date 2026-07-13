@@ -15,8 +15,6 @@ export default function Home() {
       <div className="mx-auto max-w-5xl px-4 py-16">
         <h1 className="text-3xl font-bold text-slate-50">Automata Toolkit</h1>
         <p className="mt-3 max-w-2xl text-slate-400">
-          Capstone Project Individu — Teori Bahasa dan Otomata. Aplikasi ini mengintegrasikan empat modul inti dan
-          menerima definisi mesin / grammar bebas dari pengguna.
         </p>
         <div className="mt-10 grid gap-4 sm:grid-cols-2">
           {modules.map((m) => (

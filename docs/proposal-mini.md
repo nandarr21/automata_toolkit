@@ -1,11 +1,9 @@
 # Proposal Mini — Capstone Project TBO
 
-> Isi/lengkapi dokumen ini sesuai identitas Anda sebelum dikumpulkan (maks. 5 halaman jika dikonversi ke PDF).
-
 ## 1. Identitas
-- Nama:
-- NIM:
-- Domain rencana: `https://[nim-atau-nama].my.id`
+- Nama: Asep Sunandar
+- NIM: 301240039
+- Domain rencana: `https://automatatoolkit.my.id`
 
 ## 2. Rancangan Sistem
 Aplikasi web terintegrasi (Next.js + React + Tailwind CSS) dengan 4 modul yang dapat diakses melalui navigasi tab:
